@@ -17,6 +17,7 @@ I'm a student of data science and artificial inteligence at the polithecnic univ
 <a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="auto" width="60" align='center'></a>
 <a href="url"><img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" height="auto" width="60" align='center'></a>
 <a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="auto" width="60" align='center'></a>
+<a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" height="auto" width="60" align='center'></a>
 </div>
 
 ### Interesting Info
