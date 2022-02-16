@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm a student of data science and artificial inteligence at the polithecnic university of Madrid,I'm passionate about AI and it's future but also like to tinker with diferrent langauges and some hacking stuff
+I'm a student of data science and artificial inteligence at the polithecnic university of Madrid,I'm passionate about AI and it's future but I also like to tinker with diferrent langauges and some hacking stuff
 
 
 
