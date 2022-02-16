@@ -7,7 +7,7 @@ I'm a student of data science and artificial inteligence at the polithecnic univ
 
 ### Technologies I've used
 <div align='center'>
-  <a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" height="60" width="60" align='center'></a>
+  <a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" height="60" width="60" align='center' onhover='python'></a>
 <a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/300px-NewTux.svg.png" height="auto" width="60" align='center'></a>
 <a href="url"><img src="https://pytorch.org/assets/images/pytorch-logo.png" height="auto" width="60" align='center'></a>
 <a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" height="auto" width="60" align='center'></a>
