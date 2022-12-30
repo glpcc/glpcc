@@ -22,7 +22,7 @@ I'm a student of data science and artificial inteligence at the polithecnic univ
 </div>
 </div>
 
-- 🔭 I’m currently working on a blockchain test from scratch
+- 🔭 I’m currently working on a poker AI
 - 🌱 I’m currently learning machine learning and data science
 - 👯 I’m looking to collaborate on artificial inteligence research
 - 📧 ➡ [gonzalolopecc@gmail.com](mailto:gonzalolopecc@gmail.com) 
