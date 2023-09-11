@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm a student of data science and artificial inteligence at the polithecnic university of Madrid,I'm passionate about AI and it's future but I also like to tinker with diferrent langauges and some hacking stuff
+I'm a student of data science and artificial inteligence at the Polithecnic University of Madrid,I'm passionate about AI and its future but I also like to tinker with different programming languages and some hacking stuff.
 
 
 
@@ -26,7 +26,7 @@ I'm a student of data science and artificial inteligence at the polithecnic univ
 - 🌱 I’m currently learning machine learning and data science
 - 👯 I’m looking to collaborate on artificial inteligence research
 - 📧 ➡ [gonzalolopecc@gmail.com](mailto:gonzalolopecc@gmail.com) 
-- 👩‍💻 I love competitive programing and here is my [codewars profile](https://www.codewars.com/users/glpcc)
+- 👩‍💻 I love competitive programming and here is my [codewars profile](https://www.codewars.com/users/glpcc)
 ### Contact
 
 [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
