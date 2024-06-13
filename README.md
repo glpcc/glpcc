@@ -29,10 +29,9 @@ I'm a student of data science and artificial inteligence at the Polithecnic Univ
 - ➡ I love competitive programming and here is my [codewars profile](https://www.codewars.com/users/glpcc)
 ### Contact
 
-[<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
 
 
 [mail]: mailto:gonzalolopecc@gmail.com
-[twitter]: https://twitter.com/glpcc
 [linkedin]: https://www.linkedin.com/in/gonzalo-lope-carrasco-17b7361b6/
 
